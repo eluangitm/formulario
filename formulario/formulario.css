@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(2, 49, 255);
+}
+
+header {
+    padding: 16px 0;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    display: flex;
+    color: aliceblue;
+}
+
+form {
+    padding: 48px;
+    text-align: center;
+    display: flex;
+}
+
+input,
+h2 {
+    padding: 4px;
+    margin: 10px;
+    background-color: ;
+}
+
+input {
+    border: none;
+    background-color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+button {
+    padding: 16px 16px;
+    border: none;
+    background-color: rgb(76, 229, 0);
+    margin-left: 10px;
+    cursor: pointer;
+}
+
